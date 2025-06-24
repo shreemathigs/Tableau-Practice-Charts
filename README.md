@@ -2,6 +2,7 @@
 
 Welcome to my Tableau Visualizations Repository!  
 This space showcases the various charts and dashboards I’ve designed and published on **Tableau Public** as part of my learning journey and portfolio building.
+![Tableau](https://github.com/shreemathigs/Tableau-Practice-Charts/blob/6a34ce162123e564c64c02fcc6ff8755973c3849/Tableau.png)
 
 ---
 
